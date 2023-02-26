@@ -1,0 +1,2 @@
+pkg_tf_micromouse
+-DCATKIN_DEVEL_PREFIX=/home/avi/micromouse/devel -DCMAKE_INSTALL_PREFIX=/home/avi/micromouse/install -G Unix Makefiles
